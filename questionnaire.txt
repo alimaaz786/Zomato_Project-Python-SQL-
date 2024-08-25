@@ -1,0 +1,17 @@
+List of questions asked from data through My sql query:-
+
+Q.1. What is the average delivery time for the deliveries? How are our delivery times distributed?
+Q.2. Are there any distinctive relationships between delivery time and overall ratings of the delivery person?
+Q.3. How is the age of delivery persons distributed? Are there any specific age groups that are higher in numbers? How is age impacting the delivery time?
+Q.4. What is the numerical breakdown of order types?
+Q.5. What kinds of vehicles are being used and how are they delivering in terms of time?
+Q.6  Does weather conditions affect the time taken for deliveries ?
+Q.7 How does the number of orders placed vary by city?
+Q.8 How does traffic intensity impact average delivery time? 
+Q.9 Do weather condition affect the number of orders placed by customers ?
+Q.10 Is there a correlation between the frequency of orders and the distance from the restaurant?
+
+
+
+
+
