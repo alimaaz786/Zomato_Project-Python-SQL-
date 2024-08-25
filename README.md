@@ -1,6 +1,5 @@
 # Zomato_Project-Python-SQL-
-How Zomato enhances its Operational Efficiency through Data Analysis
-Zomato Data Analysis
+How Zomato enhances its Operational Efficiency through Data Analysis.
 
 Objectives :-
 Analyze delivery patterns and customer behaviors to optimize Zomato’s delivery efficiency.
