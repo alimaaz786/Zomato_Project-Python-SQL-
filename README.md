@@ -7,7 +7,7 @@ Categorize and visualize delivery distances to identify key trends.
 Examine the correlation between delivery distance and time to enhance operational strategies.
 
 Scope :-
-The project involves data collection, cleaning, preparation, storage, and analysis using Python and SQL. It addresses critical business questions related to delivery optimization, customer satisfaction, and operational efficiency within Zomato’s delivery service.
+The project involves data collection, cleaning, preparation, storage, and analysis using Python,pandas,matplotlib,numpy and SQL. It addresses critical business questions related to delivery optimization, customer satisfaction, and operational efficiency within Zomato’s delivery service.
 
 Business Impact :-
 Optimized Delivery Routes: Identifying the most efficient delivery zones to reduce delivery times and operational costs.
